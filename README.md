@@ -1,2 +1,2 @@
-# stocktwits
+# Stocktwits
 Experimental sandbox for Stocktwits
